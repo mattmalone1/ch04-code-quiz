@@ -1,5 +1,5 @@
 var timerEl = document.getElementById('countdown');
-
+var scoreE1 = document.getElementById('high-score');
 
 function countdown() {
     var timeLeft = 75;
